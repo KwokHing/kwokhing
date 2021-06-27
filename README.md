@@ -1,6 +1,6 @@
 # Hi I'm Kwok Hing <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leongkwokhing/)](https://www.linkedin.com/in/leongkwokhing/)
-[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leongkwokhing@gmail.com)](mailto:leongkwokhing@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leongkwokhing/)](https://www.linkedin.com/in/leongkwokhing/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leongkwokhing@gmail.com)](mailto:leongkwokhing@gmail.com)
 
 ## :desktop_computer: Languages and Tools:
 <p>
