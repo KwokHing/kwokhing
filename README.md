@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leongkwokhing/)](https://www.linkedin.com/in/leongkwokhing/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leongkwokhing@gmail.com)](mailto:leongkwokhing@gmail.com)
 
-## :desktop_computer: Languages and Tools:
+## Languages and Tools:
 <p>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="25"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" height="25"></code>
