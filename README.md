@@ -1,8 +1,7 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I am Kwok Hing 
-# Hi I'm Kwok Hing 👋
-[![Linkedin Badge](https://img.shields.io/badge/-leongkwokhing-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
-[![Instagram Badge](https://img.shields.io/badge/-@kwokhingleong-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
-[![Gmail Badge](https://img.shields.io/badge/-leongkwokhing-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leongkwokhing@gmail.com)](mailto:leongkwokhing@gmail.com)
+# Hi I'm Kwok Hing <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+[![Linkedin Badge](https://img.shields.io/badge/-leongkwokhing-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/){:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/-@kwokhingleong-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam){:target="_blank"}
+[![Gmail Badge](https://img.shields.io/badge/-leongkwokhing-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leongkwokhing@gmail.com)](mailto:leongkwokhing@gmail.com){:target="_blank"}
 
 ## Languages and Tools:
 <p>
