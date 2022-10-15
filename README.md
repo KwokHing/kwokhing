@@ -4,7 +4,7 @@
 
 ## Languages and Tools:
 <p>
-<code><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="25"></a></code>
+<code><a href="https://www.python.org/" target='blank'><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="25"></a></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" height="25"></code>
 <code><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" alt="Tableau" height="24"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="24"></code>
