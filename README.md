@@ -4,17 +4,20 @@
 
 ## Languages and Tools:
 <p>
-<code><a href="https://www.python.org/" target='_blank'><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="25"></a></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" height="25"></code>
-<code><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" alt="Tableau" height="24"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="24"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="24"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="24"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="24"></code>
-<code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png" alt="Jupyter Notebook" height="26"></code>
-<code><img src="https://camo.githubusercontent.com/476da1f6b132a5c4d8f9126f65679ec994ef7521db13e13ef3aefa846c7bbc75/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672f3132303070782d5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672e706e67" alt="scikit learn" height="24"></code>
+<code><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="25"></a></code>
+<code><a href="https://jupyter.org/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png" alt="Jupyter Notebook" height="26"></a></code>
+<code><a href="https://scikit-learn.org/stable/"><img src="https://camo.githubusercontent.com/476da1f6b132a5c4d8f9126f65679ec994ef7521db13e13ef3aefa846c7bbc75/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672f3132303070782d5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672e706e67" alt="scikit learn" height="24"></a></code>
+<code><a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" height="25"></a></code>
+<code><a href="https://www.tableau.com/"><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" alt="Tableau" height="24"></a></code>
+<code><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="24"></a></code>
+<code><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="24"></a></code>
+<code><a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="24"></a></code>
+<code><a href="https://html.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="25"></a></code>
+<code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="25"></a></code>
+<code><a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="24"></a></code>
+
+
+
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px"> -->
 </p>
 
