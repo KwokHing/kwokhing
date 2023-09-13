@@ -7,10 +7,10 @@
 
 #### Skills:
 
-📊 Data Science Languages: Python, R, SQL <br/>
-🤖 Machine Learning: scikit-learn, TensorFlow, PyTorch <br/>
-📚 Natural Language Processing: NLTK, Gensim, spaCy, Transformers, BERT, SBERT, HuggingFace <br/>
-📈 Data Visualization: Tableau, PowerBI <br/>
+📊 Data Science Languages: Python, R, SQL <br>
+🤖 Machine Learning: scikit-learn, TensorFlow, PyTorch <br>
+📚 Natural Language Processing: NLTK, Gensim, spaCy, Transformers, BERT, SBERT, HuggingFace <br>
+📈 Data Visualization: Tableau, PowerBI <br>
 🛠️ Web Applications: Gradio, Streamlit, Flask, Bootstrap, CSS 
 
 <!--
