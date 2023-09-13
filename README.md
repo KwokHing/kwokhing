@@ -4,6 +4,7 @@
 
 📊 Data Science Languages: Python, R, SQL <br>
 🤖 Machine Learning: scikit-learn, TensorFlow, PyTorch <br>
+🧪 Reinforcement Learning: Stable Baselines3 <br>
 📚 Natural Language Processing: NLTK, Gensim, spaCy, Transformers, BERT, S-BERT, HuggingFace <br>
 🧮 Generative AI: LangChain, Azure OpenAI <br>
 📈 Data Visualization: Tableau, PowerBI <br>
