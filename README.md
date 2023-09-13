@@ -5,6 +5,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leongkwokhing/)](https://www.linkedin.com/in/leongkwokhing/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leongkwokhing@gmail.com)](mailto:leongkwokhing@gmail.com)
 
+#### Skills:
+
+📊 Data Science Languages: Python, R, SQL 
+🤖 Machine Learning: scikit-learn, TensorFlow, PyTorch
+📚 Natural Language Processing: NLTK, Gensim, spaCy, Transformers, BERT, SBERT, HuggingFace
+📈 Data Visualization: Tableau, PowerBI
+🛠️ Web Applications: Gradio, Streamlit, Flask, Bootstrap, CSS 
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +22,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📄
+- 🧪
+- 🧹 
+- 🧮 
+- 💻 
+- 🛠️
 -->
