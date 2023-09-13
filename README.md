@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14"> Hi there! I'm Kwok Hing, a passionate Data Scientist with a focus on Natural Language Processing (NLP) and a strong commitment to turning data into actionable insights.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> Hi there! I'm Kwok Hing, a passionate Data Scientist with a focus on Natural Language Processing (NLP) and a strong commitment to turning data into actionable insights.
 
 #### 📫 Connect with Me:
 
