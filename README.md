@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> Hi there! I'm Kwok Hing, a passionate Data Scientist with a focus on Natural Language Processing (NLP) and a strong commitment to turning data into actionable insights.
 
-#### 📄 Skills: ####
+📄 Skills:
 
 📊 Data Science Languages: Python, R, SQL <br>
 🤖 Machine Learning: scikit-learn, TensorFlow, PyTorch <br>
@@ -10,7 +10,7 @@
 📈 Data Visualization: Tableau, Power BI <br>
 🛠️ Web Applications: Gradio, Streamlit, Flask, Bootstrap, CSS 
 
-#### 📫  Connect with Me: ####
+📫  Connect with Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leongkwokhing/)](https://www.linkedin.com/in/leongkwokhing/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leongkwokhing@gmail.com)](mailto:leongkwokhing@gmail.com)
