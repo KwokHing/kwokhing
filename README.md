@@ -6,7 +6,7 @@
 🤖 Machine Learning: scikit-learn, TensorFlow, PyTorch <br>
 🧪 Reinforcement Learning: Stable Baselines3 <br>
 📚 Natural Language Processing: NLTK, Gensim, spaCy, Transformers, BERT, S-BERT, HuggingFace <br>
-🧮 Generative AI: Prompt Engineering, Retrevial Augmented Generation (RAG), LangChain, Azure OpenAI <br>
+🧮 Generative AI: Prompt Engineering, Retrieval-Augmented Generation (RAG), LangChain, Azure OpenAI <br>
 📈 Data Visualization: Tableau, Power BI <br>
 🛠️ Web Applications: Gradio, Streamlit, Flask, Bootstrap, CSS 
 
