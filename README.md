@@ -1,10 +1,10 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> Hi there! I'm Kwok Hing, a passionate Data Scientist with a focus on Natural Language Processing (NLP) and a strong commitment to turning data into actionable insights.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> Hi there! I'm Kwok Hing, a passionate Data Scientist focusing on the use of Machine Learning, in particular, Natural Language Processing (NLP) and Generative AI (GenAI) to obtain insights, predict outcomes and optimise processes.
 
 📄 Skills:
 
 📊 Data Science Languages: Python, R, SQL <br>
 🤖 Machine Learning: scikit-learn, TensorFlow, PyTorch <br>
-🧪 Reinforcement Learning: Stable Baselines3 <br>
+🧪 Reinforcement Learning: Stable-Baselines3 <br>
 📚 Natural Language Processing: NLTK, Gensim, spaCy, Transformers, BERT, S-BERT, HuggingFace <br>
 🧮 Generative AI: Prompt Engineering, Retrieval-Augmented Generation (RAG), LangChain, Azure OpenAI <br>
 📈 Data Visualization: Tableau, Power BI <br>
