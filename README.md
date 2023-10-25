@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> Hi there! I'm Kwok Hing, a passionate Data Scientist focusing on the use of Machine Learning, in particular, Natural Language Processing (NLP) and Generative AI (GenAI) to obtain insights, predict outcomes and optimise processes
 
-==================================
+=================================
 
 📄 Skills:
 
@@ -12,7 +12,7 @@
 📈 Data Visualization: Tableau, Power BI <br>
 🛠️ Web Applications: Gradio, Streamlit, Flask, Bootstrap, CSS
 
-==================================
+=================================
 
 📫  Connect with Me:
 
