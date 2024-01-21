@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> Hi there! I'm Kwok Hing, a passionate Data Scientist focusing on using Machine Learning, in particular, Natural Language Processing (NLP) and Generative AI (GenAI) to obtain insights, predict outcomes as well as automate / optimise processes
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> Hi there! I'm Kwok Hing, a passionate Data Scientist focusing on using Machine Learning, in particular, Natural Language Processing (NLP) and Generative AI (GenAI) to obtain insights, predict outcomes, as well as automate / optimise processes
 
 =================================
 
